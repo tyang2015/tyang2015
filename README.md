@@ -8,7 +8,7 @@
 #### 🔭 -> Projects I'm Currently Working On (or completed)
 * :curry: MealDash which aims to mimic DoorDash, a popularly-used food delivery site
 * :cake: Sweetiegram which aims to mimic Instagram, the famous social media site.
-* :cherries: Recommender system (used grocery data) which generates recommendations based on purchase history of other customers with similar spending habits
+* :cherries: Recommender system (based on grocery data) which generates recommendations based on purchase history of other customers with similar spending habits
 
 #### :performing_arts: -> Hobbies
 #### I am a huge Final Fantasy nerd :video_game: and love traveling to new places (Stockholm is my favorite) with great social climate, browsing art galleries, and eating out with my friends!
