@@ -23,7 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyang2015&count_private=true&show_icons=true&theme=tokyonight)
 
 #### Profile Views
-![](https://komarev.com/ghpvc/?username=tyang2015)
+![](https://komarev.com/ghpvc/?username=tyang2015&color=orange)
 
 #### Reach me at: ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
