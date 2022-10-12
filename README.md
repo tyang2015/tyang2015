@@ -11,13 +11,17 @@
 
 --------------------------------------------------------------------------------
 
+#### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyang2015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyang2015)](https://git.io/streak-stats)
 
 
 #### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyang2015)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyang2015&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyang2015&count_private=true&show_icons=true&theme=tokyonight)
+
+
 
 #### Reach me at: 
 
