@@ -5,7 +5,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 -------------------------------------------------------------------------------
-#### 🔭 -> Projects I've Currently Working On (or completed)
+#### 🔭 -> Projects I'm Currently Working On (or completed)
 * :curry: MealDash which aims to mimic DoorDash, a popularly-used food delivery site
 * :cake: Sweetiegram which aims to mimic Instagram, the famous social media site.
 * :cherries: Recommender system which utilizes machine learning to generate recommendations based on purchase history of other customers with similar spending habits
